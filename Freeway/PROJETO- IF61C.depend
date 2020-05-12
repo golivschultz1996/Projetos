@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1436576447 source:c:\users\gabriel\desktop\projeto - fundamentos de prog 1\projeto- if61c\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
