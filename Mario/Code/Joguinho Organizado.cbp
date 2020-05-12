@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Joguinho Organizado" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Joguinho Organizado" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="../Joguinho Organizado" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Joguinho Organizado" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="../Joguinho Organizado" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Caixa.cpp" />
+		<Unit filename="Caixa.h" />
+		<Unit filename="Camera.cpp" />
+		<Unit filename="Camera.h" />
+		<Unit filename="Escada.cpp" />
+		<Unit filename="Escada.h" />
+		<Unit filename="GerenciadoraAllegro.cpp" />
+		<Unit filename="GerenciadoraAllegro.h" />
+		<Unit filename="Inimigo.cpp" />
+		<Unit filename="Inimigo.h" />
+		<Unit filename="Inimigo1.bmp" />
+		<Unit filename="Inimigo1.cpp" />
+		<Unit filename="Inimigo1.h" />
+		<Unit filename="Inimigo2.cpp" />
+		<Unit filename="Inimigo3.h" />
+		<Unit filename="Instrucoes.cpp" />
+		<Unit filename="Instrucoes.h" />
+		<Unit filename="Jogador.cpp" />
+		<Unit filename="Jogador.h" />
+		<Unit filename="Jogo.cpp" />
+		<Unit filename="Jogo.h" />
+		<Unit filename="Joguinho Organizado.cbp" />
+		<Unit filename="Joguinho Organizado.depend" />
+		<Unit filename="Joguinho Organizado.layout" />
+		<Unit filename="Mariopequeno_parado.bmp" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Obstaculo.cpp" />
+		<Unit filename="Obstaculo.h" />
+		<Unit filename="Personagem.cpp" />
+		<Unit filename="Personagem.h" />
+		<Unit filename="Reward.cpp" />
+		<Unit filename="Reward.h" />
+		<Unit filename="checarcolisao.cpp" />
+		<Unit filename="checarcolisao.h" />
+		<Unit filename="fase1.bmp" />
+		<Unit filename="fase1.cpp" />
+		<Unit filename="fase1.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

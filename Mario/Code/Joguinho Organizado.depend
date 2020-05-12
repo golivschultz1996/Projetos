@@ -1,0 +1,808 @@
+# depslib dependency file v1.0
+1448820380 source:c:\users\gabriel\desktop\joguinho organizado\main.cpp
+	<allegro.h>
+	"fase1.h"
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo1.h"
+	"Personagem.h"
+	<list>
+	<algorithm>
+	<iterator>
+
+1448721761 source:c:\users\gabriel\desktop\joguinho organizado\entidade.cpp
+
+1448820691 source:c:\users\gabriel\desktop\joguinho organizado\fase1.cpp
+	"fase1.h"
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo.h"
+	<list>
+	<algorithm>
+	<iterator>
+
+1448820691 c:\users\gabriel\desktop\joguinho organizado\fase1.h
+	<allegro.h>
+	"Camera.h"
+	"Inimigo1.h"
+	"Jogador.h"
+	<list>
+	<algorithm>
+	<iterator>
+
+1448672017 source:c:\users\gabriel\desktop\joguinho organizado\gerenciadoraallegro.cpp
+
+1448722802 source:c:\users\gabriel\desktop\joguinho organizado\inimigo.cpp
+	"Inimigo.h"
+
+1448673894 source:c:\users\gabriel\desktop\joguinho organizado\inimigo2.cpp
+
+1448742783 source:c:\users\gabriel\desktop\joguinho organizado\jogador.cpp
+	"Jogador.h"
+
+1448672068 source:c:\users\gabriel\desktop\joguinho organizado\jogo.cpp
+
+1448738843 source:c:\users\gabriel\desktop\joguinho organizado\personagem.cpp
+	"Personagem.h"
+
+1448742203 c:\users\gabriel\desktop\joguinho organizado\jogador.h
+	<allegro.h>
+	"Personagem.h"
+
+1448738745 c:\users\gabriel\desktop\joguinho organizado\camera.h
+	<allegro.h>
+	"Jogador.h"
+
+1448734117 source:c:\users\gabriel\desktop\joguinho organizado\camera.cpp
+	"Camera.h"
+
+1448734161 c:\users\gabriel\desktop\joguinho organizado\inimigo1.h
+	<allegro.h>
+	"Inimigo.h"
+
+1448722914 source:c:\users\gabriel\desktop\joguinho organizado\inimigo1.cpp
+	"Inimigo1.h"
+
+1448738843 c:\users\gabriel\desktop\joguinho organizado\personagem.h
+	<allegro.h>
+
+1448720779 c:\users\gabriel\desktop\joguinho organizado\entidade.h
+	<allegro.h>
+
+1448734140 c:\users\gabriel\desktop\joguinho organizado\inimigo.h
+	<allegro.h>
+	"Personagem.h"
+
+1448733632 source:c:\users\gabriel\desktop\joguinho organizado\checarcolisao.cpp
+
+1449017703 source:c:\users\walte\dropbox\asdafas\joguinho organizado\camera.cpp
+	"Camera.h"
+
+1448738745 c:\users\walte\dropbox\asdafas\joguinho organizado\camera.h
+	<allegro.h>
+	"Jogador.h"
+
+1448992973 c:\users\walte\dropbox\asdafas\joguinho organizado\jogador.h
+	<allegro.h>
+	"Personagem.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1448976597 c:\users\walte\dropbox\asdafas\joguinho organizado\personagem.h
+	<allegro.h>
+
+1448733632 source:c:\users\walte\dropbox\asdafas\joguinho organizado\checarcolisao.cpp
+
+1448721761 source:c:\users\walte\dropbox\asdafas\joguinho organizado\entidade.cpp
+
+1449022837 source:c:\users\walte\dropbox\asdafas\joguinho organizado\fase1.cpp
+	"fase1.h"
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo.h"
+
+1449022598 c:\users\walte\dropbox\asdafas\joguinho organizado\fase1.h
+	<allegro.h>
+	"Camera.h"
+	"Inimigo1.h"
+	"Jogador.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1448976597 c:\users\walte\dropbox\asdafas\joguinho organizado\inimigo1.h
+	<allegro.h>
+	"Inimigo.h"
+
+1448993057 c:\users\walte\dropbox\asdafas\joguinho organizado\inimigo.h
+	<allegro.h>
+	<stdlib.h>
+	<iostream>
+	<list>
+	<stdio.h>
+	"Personagem.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+
+1448672017 source:c:\users\walte\dropbox\asdafas\joguinho organizado\gerenciadoraallegro.cpp
+
+1448993178 source:c:\users\walte\dropbox\asdafas\joguinho organizado\inimigo.cpp
+	"Inimigo.h"
+
+1448722914 source:c:\users\walte\dropbox\asdafas\joguinho organizado\inimigo1.cpp
+	"Inimigo1.h"
+
+1448673894 source:c:\users\walte\dropbox\asdafas\joguinho organizado\inimigo2.cpp
+
+1449021027 source:c:\users\walte\dropbox\asdafas\joguinho organizado\jogador.cpp
+	"Jogador.h"
+
+1449022598 source:c:\users\walte\dropbox\asdafas\joguinho organizado\jogo.cpp
+	"Jogo.h"
+
+1448847583 source:c:\users\walte\dropbox\asdafas\joguinho organizado\main.cpp
+	<allegro.h>
+	"Jogo.h"
+	<list>
+	<algorithm>
+	<iterator>
+
+1448976597 source:c:\users\walte\dropbox\asdafas\joguinho organizado\personagem.cpp
+	"Personagem.h"
+
+1449018757 c:\users\walte\dropbox\asdafas\joguinho organizado\jogo.h
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo1.h"
+	"Personagem.h"
+	"fase1.h"
+	"Escada.h"
+	"Caixa.h"
+
+1448993669 source:c:\users\walte\dropbox\asdafas\joguinho organizado\obstaculo.cpp
+	"Obstaculo.h"
+
+1448993826 c:\users\walte\dropbox\asdafas\joguinho organizado\obstaculo.h
+	<allegro.h>
+
+1449017703 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\camera.cpp
+	"Camera.h"
+
+1448738745 c:\users\gabriel\dropbox\asdafas\joguinho organizado\camera.h
+	<allegro.h>
+	"Jogador.h"
+
+1448992973 c:\users\gabriel\dropbox\asdafas\joguinho organizado\jogador.h
+	<allegro.h>
+	"Personagem.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1448976597 c:\users\gabriel\dropbox\asdafas\joguinho organizado\personagem.h
+	<allegro.h>
+
+1448733632 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\checarcolisao.cpp
+
+1449019119 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\fase1.cpp
+	"fase1.h"
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo.h"
+
+1448992894 c:\users\gabriel\dropbox\asdafas\joguinho organizado\fase1.h
+	<allegro.h>
+	"Camera.h"
+	"Inimigo1.h"
+	"Jogador.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1448976597 c:\users\gabriel\dropbox\asdafas\joguinho organizado\inimigo1.h
+	<allegro.h>
+	"Inimigo.h"
+
+1448993057 c:\users\gabriel\dropbox\asdafas\joguinho organizado\inimigo.h
+	<allegro.h>
+	<stdlib.h>
+	<iostream>
+	<list>
+	<stdio.h>
+	"Personagem.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+
+1448672017 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\gerenciadoraallegro.cpp
+
+1448993178 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\inimigo.cpp
+	"Inimigo.h"
+
+1448722914 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\inimigo1.cpp
+	"Inimigo1.h"
+
+1448673894 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\inimigo2.cpp
+
+1448993206 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\jogador.cpp
+	"Jogador.h"
+
+1448847583 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\main.cpp
+	<allegro.h>
+	"Jogo.h"
+	<list>
+	<algorithm>
+	<iterator>
+
+1449018757 c:\users\gabriel\dropbox\asdafas\joguinho organizado\jogo.h
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo1.h"
+	"Personagem.h"
+	"fase1.h"
+	"Escada.h"
+	"Caixa.h"
+
+1448993669 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\obstaculo.cpp
+	"Obstaculo.h"
+
+1448993826 c:\users\gabriel\dropbox\asdafas\joguinho organizado\obstaculo.h
+	<allegro.h>
+
+1448976597 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\personagem.cpp
+	"Personagem.h"
+
+1449017774 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\jogo.cpp
+	"Jogo.h"
+
+1448925099 c:\users\walte\dropbox\asdafas\joguinho organizado\escada.h
+	<Obstaculo.h>
+
+1448993942 source:c:\users\walte\dropbox\asdafas\joguinho organizado\escada.cpp
+	"Escada.h"
+
+1448925099 c:\users\gabriel\dropbox\asdafas\joguinho organizado\escada.h
+	<Obstaculo.h>
+
+1448993942 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\escada.cpp
+	"Escada.h"
+
+1449025072 source:c:\users\walte\dropbox\asdafas\joguinho organizado\reward.cpp
+	"Reward.h"
+
+1449023383 c:\users\walte\dropbox\asdafas\joguinho organizado\reward.h
+	<allegro.h>
+
+1449021588 source:c:\users\walte\dropbox\asdafas\joguinho organizado\caixa.cpp
+	"Caixa.h"
+
+1449021605 c:\users\walte\dropbox\asdafas\joguinho organizado\caixa.h
+	<Obstaculo.h>
+	"Reward.h"
+
+1449009554 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\caixa.cpp
+	"Caixa.h"
+
+1448995331 c:\users\gabriel\dropbox\asdafas\joguinho organizado\caixa.h
+	<Obstaculo.h>
+	"Reward.h"
+
+1448994628 c:\users\gabriel\dropbox\asdafas\joguinho organizado\reward.h
+	<Obstaculo.h>
+
+1448994910 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado\reward.cpp
+	"Reward.h"
+
+1449034165 source:c:\users\walte\desktop\joguinho organizado\caixa.cpp
+	"Caixa.h"
+
+1449044455 c:\users\walte\desktop\joguinho organizado\caixa.h
+	"Obstaculo.h"
+	"Reward.h"
+
+1448830794 c:\users\walte\desktop\joguinho organizado\include\obstaculo.h
+
+1449025910 c:\users\walte\desktop\joguinho organizado\reward.h
+	<allegro.h>
+
+1449048273 source:c:\users\walte\desktop\joguinho organizado\camera.cpp
+	"Camera.h"
+
+1448738745 c:\users\walte\desktop\joguinho organizado\camera.h
+	<allegro.h>
+	"Jogador.h"
+
+1449038926 c:\users\walte\desktop\joguinho organizado\jogador.h
+	<allegro.h>
+	"Personagem.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1449038646 c:\users\walte\desktop\joguinho organizado\personagem.h
+	<allegro.h>
+
+1448993826 c:\users\walte\desktop\joguinho organizado\obstaculo.h
+	<allegro.h>
+
+1449044455 c:\users\walte\desktop\joguinho organizado\escada.h
+	"Obstaculo.h"
+
+1448733632 source:c:\users\walte\desktop\joguinho organizado\checarcolisao.cpp
+
+1448993942 source:c:\users\walte\desktop\joguinho organizado\escada.cpp
+	"Escada.h"
+
+1449048387 source:c:\users\walte\desktop\joguinho organizado\fase1.cpp
+	"fase1.h"
+
+1449047554 c:\users\walte\desktop\joguinho organizado\fase1.h
+	<allegro.h>
+	"Camera.h"
+	"Inimigo1.h"
+	"Jogador.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1448976597 c:\users\walte\desktop\joguinho organizado\inimigo1.h
+	<allegro.h>
+	"Inimigo.h"
+
+1449039639 c:\users\walte\desktop\joguinho organizado\inimigo.h
+	<allegro.h>
+	<stdlib.h>
+	<iostream>
+	<list>
+	<stdio.h>
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	"Personagem.h"
+
+1448672017 source:c:\users\walte\desktop\joguinho organizado\gerenciadoraallegro.cpp
+
+1449039966 source:c:\users\walte\desktop\joguinho organizado\inimigo.cpp
+	"Inimigo.h"
+	"Jogador.h"
+
+1448722914 source:c:\users\walte\desktop\joguinho organizado\inimigo1.cpp
+	"Inimigo1.h"
+
+1448673894 source:c:\users\walte\desktop\joguinho organizado\inimigo2.cpp
+
+1449040248 source:c:\users\walte\desktop\joguinho organizado\jogador.cpp
+	"Jogador.h"
+	"Inimigo.h"
+
+1449047554 source:c:\users\walte\desktop\joguinho organizado\jogo.cpp
+	"Jogo.h"
+
+1449047272 c:\users\walte\desktop\joguinho organizado\jogo.h
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo1.h"
+	"Personagem.h"
+	"fase1.h"
+	"Escada.h"
+	"Caixa.h"
+	"Menu.h"
+
+1449032620 source:c:\users\walte\desktop\joguinho organizado\main.cpp
+	<allegro.h>
+	"Jogo.h"
+	<list>
+	<algorithm>
+	<iterator>
+
+1449043018 source:c:\users\walte\desktop\joguinho organizado\obstaculo.cpp
+	"Obstaculo.h"
+
+1449038915 source:c:\users\walte\desktop\joguinho organizado\personagem.cpp
+	"Personagem.h"
+
+1449025918 source:c:\users\walte\desktop\joguinho organizado\reward.cpp
+	"Reward.h"
+
+1449031192 c:\users\walte\desktop\joguinho organizado\menu.h
+	<allegro.h>
+
+1449038288 source:c:\users\walte\desktop\joguinho organizado\menu.cpp
+	"Menu.h"
+	"Jogo.h"
+
+1449068116 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\caixa.cpp
+	"Caixa.h"
+
+1449066929 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\caixa.h
+	"Obstaculo.h"
+	"Reward.h"
+
+1448993826 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\obstaculo.h
+	<allegro.h>
+
+1449067208 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\reward.h
+	<allegro.h>
+
+1449048273 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\camera.cpp
+	"Camera.h"
+
+1449073816 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\camera.h
+	<allegro.h>
+	"Jogador.h"
+
+1449082505 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\jogador.h
+	<allegro.h>
+	"Personagem.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1449080028 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\personagem.h
+	<allegro.h>
+
+1449044455 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\escada.h
+	"Obstaculo.h"
+
+1448733632 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\checarcolisao.cpp
+
+1448993942 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\escada.cpp
+	"Escada.h"
+
+1449079127 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\fase1.cpp
+	"fase1.h"
+
+1449072432 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\fase1.h
+	<allegro.h>
+	"Camera.h"
+	"Inimigo1.h"
+	"Jogador.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1448976597 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\inimigo1.h
+	<allegro.h>
+	"Inimigo.h"
+
+1449080432 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\inimigo.h
+	<allegro.h>
+	<stdlib.h>
+	<iostream>
+	<list>
+	<stdio.h>
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	"Personagem.h"
+
+1448672017 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\gerenciadoraallegro.cpp
+
+1449080432 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\inimigo.cpp
+	"Inimigo.h"
+	"Jogador.h"
+
+1448722914 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\inimigo1.cpp
+	"Inimigo1.h"
+
+1448673894 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\inimigo2.cpp
+
+1449080312 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\jogador.cpp
+	"Jogador.h"
+	"Inimigo.h"
+
+1449080107 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\jogo.cpp
+	"Jogo.h"
+
+1449078104 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\jogo.h
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo1.h"
+	"Personagem.h"
+	"fase1.h"
+	"Escada.h"
+	"Caixa.h"
+	"Menu.h"
+
+1449077230 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\menu.h
+	<allegro.h>
+	"Instrucoes.h"
+
+1449032620 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\main.cpp
+	<allegro.h>
+	"Jogo.h"
+	<list>
+	<algorithm>
+	<iterator>
+
+1449077292 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\menu.cpp
+	"Menu.h"
+	"Jogo.h"
+
+1449043018 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\obstaculo.cpp
+	"Obstaculo.h"
+
+1449080028 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\personagem.cpp
+	"Personagem.h"
+
+1449067208 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\reward.cpp
+	"Reward.h"
+
+1449063325 source:c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\instrucoes.cpp
+	"Instrucoes.h"
+
+1449063321 c:\users\walte\desktop\super_mario_bros__hd_by_nosferatwo\joguinho organizado\instrucoes.h
+	<allegro.h>
+
+1449068116 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\caixa.cpp
+	"Caixa.h"
+
+1449066929 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\caixa.h
+	"Obstaculo.h"
+	"Reward.h"
+
+1448993826 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\obstaculo.h
+	<allegro.h>
+
+1449067208 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\reward.h
+	<allegro.h>
+
+1449048273 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\camera.cpp
+	"Camera.h"
+
+1449073816 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\camera.h
+	<allegro.h>
+	"Jogador.h"
+
+1449082505 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\jogador.h
+	<allegro.h>
+	"Personagem.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1449080028 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\personagem.h
+	<allegro.h>
+
+1449044455 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\escada.h
+	"Obstaculo.h"
+
+1448733632 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\checarcolisao.cpp
+
+1448993942 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\escada.cpp
+	"Escada.h"
+
+1449079127 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\fase1.cpp
+	"fase1.h"
+
+1449072432 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\fase1.h
+	<allegro.h>
+	"Camera.h"
+	"Inimigo1.h"
+	"Jogador.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1448976597 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\inimigo1.h
+	<allegro.h>
+	"Inimigo.h"
+
+1449080432 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\inimigo.h
+	<allegro.h>
+	<stdlib.h>
+	<iostream>
+	<list>
+	<stdio.h>
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	"Personagem.h"
+
+1448672017 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\gerenciadoraallegro.cpp
+
+1449166608 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\inimigo.cpp
+	"Inimigo.h"
+	"Jogador.h"
+
+1448722914 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\inimigo1.cpp
+	"Inimigo1.h"
+
+1448673894 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\inimigo2.cpp
+
+1449063325 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\instrucoes.cpp
+	"Instrucoes.h"
+
+1449063321 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\instrucoes.h
+	<allegro.h>
+
+1449166333 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\jogador.cpp
+	"Jogador.h"
+	"Inimigo.h"
+
+1449168942 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\jogo.cpp
+	"Jogo.h"
+
+1449078104 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\jogo.h
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo1.h"
+	"Personagem.h"
+	"fase1.h"
+	"Escada.h"
+	"Caixa.h"
+	"Menu.h"
+
+1449167958 c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\menu.h
+	<allegro.h>
+	"Instrucoes.h"
+
+1449032620 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\main.cpp
+	<allegro.h>
+	"Jogo.h"
+	<list>
+	<algorithm>
+	<iterator>
+
+1449169038 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\menu.cpp
+	"Menu.h"
+	"Jogo.h"
+
+1449043018 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\obstaculo.cpp
+	"Obstaculo.h"
+
+1449080028 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\personagem.cpp
+	"Personagem.h"
+
+1449067208 source:c:\users\gabriel\dropbox\asdafas\joguinho organizado(1)\reward.cpp
+	"Reward.h"
+
+1449068116 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\caixa.cpp
+	"Caixa.h"
+
+1449066929 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\caixa.h
+	"Obstaculo.h"
+	"Reward.h"
+
+1448993826 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\obstaculo.h
+	<allegro.h>
+
+1449067208 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\reward.h
+	<allegro.h>
+
+1449048273 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\camera.cpp
+	"Camera.h"
+
+1449073816 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\camera.h
+	<allegro.h>
+	"Jogador.h"
+
+1449082505 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\jogador.h
+	<allegro.h>
+	"Personagem.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1449080028 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\personagem.h
+	<allegro.h>
+
+1449044455 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\escada.h
+	"Obstaculo.h"
+
+1448733632 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\checarcolisao.cpp
+
+1448993942 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\escada.cpp
+	"Escada.h"
+
+1449079127 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\fase1.cpp
+	"fase1.h"
+
+1449072432 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\fase1.h
+	<allegro.h>
+	"Camera.h"
+	"Inimigo1.h"
+	"Jogador.h"
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	<iostream>
+	<list>
+
+1448976597 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\inimigo1.h
+	<allegro.h>
+	"Inimigo.h"
+
+1449080432 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\inimigo.h
+	<allegro.h>
+	<stdlib.h>
+	<iostream>
+	<list>
+	<stdio.h>
+	"Obstaculo.h"
+	"Escada.h"
+	"Caixa.h"
+	"Personagem.h"
+
+1448672017 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\gerenciadoraallegro.cpp
+
+1449166608 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\inimigo.cpp
+	"Inimigo.h"
+	"Jogador.h"
+
+1448722914 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\inimigo1.cpp
+	"Inimigo1.h"
+
+1448673894 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\inimigo2.cpp
+
+1449063325 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\instrucoes.cpp
+	"Instrucoes.h"
+
+1449063321 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\instrucoes.h
+	<allegro.h>
+
+1449168942 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\jogo.cpp
+	"Jogo.h"
+
+1449078104 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\jogo.h
+	"Jogador.h"
+	"Camera.h"
+	"Inimigo1.h"
+	"Personagem.h"
+	"fase1.h"
+	"Escada.h"
+	"Caixa.h"
+	"Menu.h"
+
+1449167958 c:\users\walte\dropbox\asdafas\joguinho organizado(1)\menu.h
+	<allegro.h>
+	"Instrucoes.h"
+
+1449032620 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\main.cpp
+	<allegro.h>
+	"Jogo.h"
+	<list>
+	<algorithm>
+	<iterator>
+
+1449169003 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\menu.cpp
+	"Menu.h"
+	"Jogo.h"
+
+1449043018 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\obstaculo.cpp
+	"Obstaculo.h"
+
+1449080028 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\personagem.cpp
+	"Personagem.h"
+
+1449067208 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\reward.cpp
+	"Reward.h"
+
+1449166333 source:c:\users\walte\dropbox\asdafas\joguinho organizado(1)\jogador.cpp
+	"Jogador.h"
+	"Inimigo.h"
+
